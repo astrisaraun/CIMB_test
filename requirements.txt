@@ -1,0 +1,8 @@
+behave
+pytest
+allure-pytest
+allure-behave
+httpx
+jmespath
+selenium
+chromedriver-py
